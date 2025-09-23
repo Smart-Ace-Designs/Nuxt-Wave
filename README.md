@@ -1,14 +1,11 @@
 # Nuxt Template: Wave
-> [!Warning]
-> This template uses a [beta version](https://ui4.nuxt.com/) of Nuxt UI 4 and should not be used for production purposes.
-
 Nuxt **Wave** is an opinionated Nuxt 4 starter template with built-in support for Nuxt UI, Tailwind CSS, and Prettier. It also includes a simple _Welcome_ component to showcase basic Nuxt UI functionality.
 
 Using `create nuxt@latest` provides everything you need to create a basic Nuxt application. However, it is missing a few useful items that you might find yourself manually adding to every new Nuxt project. The **Wave** template was created to automatically include these items. This provides a great starting point for a new Nuxt project with Nuxt UI and Tailwind.
 
 The template includes:
 - An initial Nuxt 4 project structure
-- [Nuxt UI 4](https://ui4.nuxt.com)  (beta)
+- [Nuxt UI 4](https://ui.nuxt.com)
   - Integrates with [Tailwind CSS v4.1](https://tailwindcss.com/)
   - Integrates with [Nuxt Icon](https://nuxt.com/modules/icon)
   - Integrates with [Nuxt Fonts](https://nuxt.com/modules/fonts)
