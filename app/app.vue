@@ -1,10 +1,10 @@
 <template>
   <UApp>
     <NuxtRouteAnnouncer />
-    <main>
+    <NuxtLayout>
       <!-- Remove <AppWelcome /> to start your project... -->
       <AppWelcome />
       <NuxtPage />
-    </main>
+    </NuxtLayout>
   </UApp>
 </template>
