@@ -9,7 +9,7 @@
         <UButton
           label="Documentation"
           icon="i-lucide-square-play"
-          to="https://ui.nuxt.com/getting-started/installation/nuxt"
+          to="https://ui4.nuxt.com/docs/getting-started/installation/nuxt"
           target="_blank"
           class="flex w-full items-center justify-center"
         />
