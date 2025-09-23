@@ -15,7 +15,7 @@ The template includes:
 - A default _main.css_ file
 - An opinionated Nuxt UI color theme set in _app.config.ts_
 - Default _.vscode_ files to properly handle Tailwind CSS, recommended extensions, and default Prettier formatters
-- A simple Nuxt UI component displayed in _index.vue_
+- A simple Nuxt UI component displayed from _app.vue_
 - The `dev` script set to `"nuxt dev -o"`
 
 ## Deployment Methods
