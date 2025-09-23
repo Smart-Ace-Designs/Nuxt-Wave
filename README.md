@@ -8,8 +8,12 @@ Using `create nuxt@latest` provides everything you need to create a basic Nuxt a
 
 The template includes:
 - An initial Nuxt 4 project structure
-- Nuxt UI 4 (beta)
-- [Tailwind CSS v4.1](https://tailwindcss.com/)
+- [Nuxt UI 4](https://ui4.nuxt.com)  (beta)
+  - Integrates with [Tailwind CSS v4.1](https://tailwindcss.com/)
+  - Integrates with [Nuxt Icon](https://nuxt.com/modules/icon)
+  - Integrates with [Nuxt Fonts](https://nuxt.com/modules/fonts)
+  - Integrates with [Nuxt Color Mode](https://nuxt.com/modules/color-mode)
+  - Integrates with [Nuxt Content](https://nuxt.com/modules/content)
 - [Prettier](https://prettier.io/)
 - Initial <head> elements for language and title set in _nuxt.config.ts_
 - A default _main.css_ file
