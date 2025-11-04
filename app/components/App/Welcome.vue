@@ -2,7 +2,7 @@
 
 <template>
   <div class="flex h-screen flex-col items-center justify-center gap-6">
-    <h1 class="text-(--ui-primary) text-6xl font-bold">Nuxt App</h1>
+    <h1 class="text-6xl font-bold text-primary">Nuxt App</h1>
 
     <div class="flex w-80 gap-2">
       <div class="flex-1">
