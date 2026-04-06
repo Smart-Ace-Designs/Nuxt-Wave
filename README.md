@@ -17,7 +17,7 @@ The template includes:
 - Initial <head> elements for language and title set in _nuxt.config.ts_
 - A default _main.css_ file
 - An opinionated Nuxt UI color theme set in _app.config.ts_
-- Default _.vscode_ files to properly handle Tailwind CSS, recommended extensions, and default Prettier formatters
+- Default _.vscode_ files for Prettier and Tailwind CSS settings and recommended extensions
 - The `dev` script set to `"nuxt dev -o"`
 
 ## Deployment Methods
