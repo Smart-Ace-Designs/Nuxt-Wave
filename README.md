@@ -55,7 +55,7 @@ After deploying the Nuxt **Wave** template you will see the following files and 
 │   ├── app.config.ts
 │   └── app.vue
 ├── public/
-│   ├── favicon.ion
+│   ├── favicon.ico
 │   └── robots.txt
 ├── .gitignore
 ├── .prettierrc
