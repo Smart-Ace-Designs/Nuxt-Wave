@@ -8,7 +8,7 @@ The template includes:
 
 - An initial Nuxt 4 project structure
 - [Nuxt UI 4](https://ui.nuxt.com)
-  - Integrates with [Tailwind CSS v4.2](https://tailwindcss.com/)
+  - Integrates with [Tailwind CSS](https://tailwindcss.com/)
   - Integrates with [Nuxt Icon](https://nuxt.com/modules/icon)
   - Integrates with [Nuxt Fonts](https://nuxt.com/modules/fonts)
   - Integrates with [Nuxt Color Mode](https://nuxt.com/modules/color-mode)
