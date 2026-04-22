@@ -13,8 +13,8 @@
     "@nuxt/ui": "^4.6.1",
     "nuxt": "^4.4.2",
     "tailwindcss": "^4.2.4",
-    "vue": "^3.5.32",
-    "vue-router": "^5.0.4"
+    "vue": "^3.5.33",
+    "vue-router": "^5.0.6"
   },
   "devDependencies": {
     "prettier": "^3.8.3",
