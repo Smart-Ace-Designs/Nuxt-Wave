@@ -1,6 +1,6 @@
 # Nuxt Template: Wave
 
-Nuxt **Wave** is an opinionated Nuxt 4 starter template with built-in support for Nuxt UI, Tailwind CSS, and Prettier.
+Nuxt **Wave** is an opinionated [Nuxt 4](https://nuxt.com/) starter template with built-in support for Nuxt UI, Tailwind CSS, and Prettier.
 
 Using `create nuxt@latest` provides everything you need to create a basic Nuxt application. However, it is missing a few useful items that you might find yourself manually adding to every new Nuxt project. The **Wave** template was created to automatically include these items. This provides a great starting point for a new Nuxt project with Nuxt UI and Tailwind.
 
@@ -33,9 +33,6 @@ bunx giget gh:smart-ace-designs/nuxt-wave project-name
 ```sh
 npx giget gh:smart-ace-designs/nuxt-wave project-name
 ```
-
-> [!Note]
-> You should manually clear the contents of this README file after deployment.
 
 ## Project Structure
 
