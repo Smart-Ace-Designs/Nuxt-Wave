@@ -6,8 +6,9 @@
   "editor.quickSuggestions": {
     "strings": "on"
   },
-  "tailwindCSS.classAttributes": ["class", "ui", "active-class", "inactive-class"],
+  "tailwindCSS.classAttributes": ["active-class", "class", "inactive-class", "ui"],
   "tailwindCSS.experimental.classRegex": [
-    ["ui:\\s*{([^)]*)\\s*}", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
+    ["ui:\\s*{([^)]*)\\s*}", "(?:'|\"|`)([^']*)(?:'|\"|`)"],
+    ["bodyAttrs:\\s*{[^}]*class:\\s*['\"`]([^'\"`]*)['\"`]", "([^ ]*)"]
   ]
 }
