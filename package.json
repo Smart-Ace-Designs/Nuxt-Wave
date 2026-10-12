@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@iconify-json/lucide": "^1.2.142",
-    "prettier": "^3.9.9",
+    "prettier": "^3.9.10",
     "prettier-plugin-tailwindcss": "^0.8.1"
   }
 }
