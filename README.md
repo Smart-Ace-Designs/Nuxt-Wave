@@ -64,6 +64,5 @@ After deploying the Nuxt **Wave** template you will see the following files and 
 ├── .prettierrc
 ├── nuxt.config.ts
 ├── package.json
-├── README.md
 └── tsconfig.json
 ```
