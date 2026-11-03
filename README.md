@@ -25,13 +25,13 @@ The template includes:
 ### bun
 
 ```sh
-bunx giget gh:smart-ace-designs/nuxt-wave project-name
+bunx giget gh:smart-ace-designs/nuxt-wave project-name --ignore README.md
 ```
 
 ### npm
 
 ```sh
-npx giget gh:smart-ace-designs/nuxt-wave project-name
+npx giget gh:smart-ace-designs/nuxt-wave project-name --ignore README.md
 ```
 
 ## Project Structure
