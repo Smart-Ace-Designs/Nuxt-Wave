@@ -61,8 +61,8 @@ After deploying the Nuxt **Wave** template you will see the following files and 
 │   ├── favicon.ico
 │   └── robots.txt
 ├── .gitignore
-├── .prettierrc
 ├── nuxt.config.ts
 ├── package.json
+├── prettier.config.ts
 └── tsconfig.json
 ```
