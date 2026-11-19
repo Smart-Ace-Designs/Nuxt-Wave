@@ -10,14 +10,14 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxt/ui": "^4.12.2",
+    "@nuxt/ui": "^4.13.0",
     "nuxt": "^4.6.4",
     "tailwindcss": "^4.3.5",
     "vue": "^3.5.45",
     "vue-router": "^5.5.1"
   },
   "devDependencies": {
-    "@iconify-json/lucide": "^1.2.156",
+    "@iconify-json/lucide": "^1.2.157",
     "prettier": "^3.10.1",
     "prettier-plugin-tailwindcss": "^0.8.1"
   },
