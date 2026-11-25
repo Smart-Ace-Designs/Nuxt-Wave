@@ -18,10 +18,8 @@
   },
   "devDependencies": {
     "@iconify-json/lucide": "^1.2.159",
+    "@nuxt/devtools": "^4.2.0",
     "prettier": "^3.10.1",
     "prettier-plugin-tailwindcss": "^0.8.1"
-  },
-  "overrides": {
-    "@nuxt/devtools": "^4.2.0"
   }
 }
